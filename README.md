@@ -4,6 +4,14 @@ Repositorio para el Fenderino Guitar Shield para Arduino UNO y equivalentes
 
 Diseñado en Suecia con amor para toda la galaxia
 
+# consigue tu kit
+
+Si quieres conseguir el kit para montarlo, visita: https://abierto.cc/shop
+
+# instrucciones de montaje
+
+Puedes ver las instrucciones de montaje paso a paso en: https://sites.google.com/abierto.cc/fenderino
+
 # créditos
 
 Marc Sibila y Jordi Divins de @instroniks y a todos los chicos de su orquesta
