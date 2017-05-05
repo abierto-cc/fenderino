@@ -20,7 +20,7 @@ L. Balboa at abierto.cc (gráficos)
 
 # menciones
 
-Artículo de X. Pérez y explicación sobre el uso de la guitarra con MIDI: http://tinkerman.cat/fenderino-arducaster-the-coolest-guitar/
+* Artículo de X. Pérez y explicación sobre el uso de la guitarra con MIDI: http://tinkerman.cat/fenderino-arducaster-the-coolest-guitar/
 
 # licencia para hardware y documentation
 
