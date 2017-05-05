@@ -6,7 +6,9 @@ Diseñado en Suecia con amor para toda la galaxia
 
 # créditos
 
-Marc de @instroniks y a todos los chicos de su orquesta
+Marc Sibila de @instroniks y a todos los chicos de su orquesta
+
+Xose Pérez por su contribución con el código MIDI para Arduino UNO y Arduino Leonardo
 
 # autores
 
@@ -15,6 +17,10 @@ D. Cuartielles at abierto.cc (prueba de concepto + código)
 J. Garcia at abierto.cc (diseño en KiCAD)
 
 L. Balboa at abierto.cc (gráficos)
+
+# menciones
+
+Artículo de X. Pérez y explicación sobre el uso de la guitarra con MIDI: http://tinkerman.cat/fenderino-arducaster-the-coolest-guitar/
 
 # licencia para hardware y documentation
 
