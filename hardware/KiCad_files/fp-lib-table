@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pth_resistors)(type KiCad)(uri /Users/jose/Documents/KiCad/footprint/pth_resistors/pth_resistors.pretty)(options "")(descr ""))
+)

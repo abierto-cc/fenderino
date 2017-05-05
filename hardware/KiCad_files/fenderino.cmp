@@ -1,0 +1,299 @@
+Cmp-Mod V01 Created by PcbNew   date = jue 01 dic 2016 21:18:09 CET
+
+BeginCmp
+TimeStamp = 581BA865
+Path = /5811CFCC
+Reference = P3;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D161C
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D1610
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D1604
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D15F8
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D15EC
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D15E0
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D15D4
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D15C8
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D15BC
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D15B0
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D15A4
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D1598
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D158C
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D1580
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D1574
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D1568
+Path = 
+Reference = hole_2;
+ValeurCmp = hole_2;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA94E
+Path = /5811F853
+Reference = SW8;
+ValeurCmp = Switch_DPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH-12mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA822
+Path = /581C673E
+Reference = J1;
+ValeurCmp = jack_audio_5pin;
+IdModule  = jack_huella;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA839
+Path = /5811F6AA
+Reference = P1;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA850
+Path = /5811D001
+Reference = P2;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA87C
+Path = /5811F785
+Reference = P4;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA8F3
+Path = /5811EAAC
+Reference = SW1;
+ValeurCmp = Switch_DPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH-12mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA900
+Path = /5811EC04
+Reference = SW2;
+ValeurCmp = Switch_DPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH-12mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA90D
+Path = /5811EC32
+Reference = SW3;
+ValeurCmp = Switch_DPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH-12mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA91A
+Path = /5811EC67
+Reference = SW4;
+ValeurCmp = Switch_DPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH-12mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA927
+Path = /5811FC15
+Reference = SW5;
+ValeurCmp = Switch_DPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH-12mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA934
+Path = /5811F8D0
+Reference = SW6;
+ValeurCmp = Switch_DPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH-12mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA941
+Path = /5811F891
+Reference = SW7;
+ValeurCmp = Switch_DPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH-12mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D14D3
+Path = 
+Reference = hole;
+ValeurCmp = hole;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581D14FD
+Path = 
+Reference = hole;
+ValeurCmp = hole;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581E6F1C
+Path = 
+Reference = GND;
+ValeurCmp = GND;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581E6F46
+Path = 
+Reference = GND;
+ValeurCmp = GND;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA95B
+Path = /5836EAC2
+Reference = SW9;
+ValeurCmp = SWITCH_INV_MSM;
+IdModule  = Switch:switch;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA8B1
+Path = /5811CEE4
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = Switch:Potenciometro;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA8E6
+Path = /5811CFA2
+Reference = RV2;
+ValeurCmp = POT;
+IdModule  = Switch:Potenciometro;
+EndCmp
+
+BeginCmp
+TimeStamp = 581BA7F2
+Path = /5811FB5E
+Reference = BZ1;
+ValeurCmp = buzzer;
+IdModule  = buzzer:buzzer_tmb;
+EndCmp
+
+EndListe
