@@ -2,7 +2,7 @@
 
 Esta carpeta contiene los ejemplos de código que necesitas para poder empezar a experimentar con tu Fenderino. La subcarpeta *examples* tiene todo lo que necesitas para poder empezar a experimentar
 
-En cualquier caso, para poder probar la carpeta *examples* hay un momento en el que necesitas librerias. Hemos incluido bajo *libraries* dos librerías que debieras instalar dentro de tu carpeta de sketchbook del IDE de Arduino. Es posible que ya tengas estas librerías, no hemos hecho ninguna modificación sobre ellas, sólo las compartimos para que sea más sencillo el encontrarlas
+En cualquier caso, para poder probar la carpeta *examples* habrá un momento en el que necesitarás librerías. Hemos incluido bajo *libraries* dos librerías que debieras instalar dentro de tu carpeta de _Sketchbook_ del IDE de Arduino. Es posible que ya tengas estas librerías, no hemos hecho ninguna modificación sobre ellas, sólo las compartimos para que sea más sencillo el encontrarlas
 
 # librería Synth
 
@@ -19,3 +19,7 @@ La usamos para el ejemplo en el que Fenderino dirá los números en inglés al p
 Aquí un reto para quien se anime: crear un algoritmo en Java que sea capaz de tomar un fichero WAV y generar un array de audio comprimido en formato texto para poder incluir en los programas hechos ocn Arduino. Abierto se compromete a hacer una herramienta para el IDE de Arduino que use ese código para automáticamente añadir el sonido a tus programas
 
 Esta librería está licenciada bajo GPLv2, por lo que la licencia GPLv3 usada para todo el documento resulta aplicable
+
+# ejemplo FA_8 - Midi por USB
+
+Este ejemplo es una contribución de Xosé Pérez y requiere instalar otra librería, el ejemplo contiene toda la información necesaria como comentario dentro del código. Échale un vistazo y sigue las explicaciones paso a paso
