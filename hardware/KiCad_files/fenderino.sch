@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:instronics_shield-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,17 +28,17 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:instronics_shield-cache
+LIBS:fenderino-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Guitarra"
-Date ""
-Rev ""
+Title "Fenderino Arducaster Shield"
+Date "2017-05-05"
+Rev "2"
 Comp "Abierto.cc"
-Comment1 ""
+Comment1 "CC - BY - SA - NC 4.0"
 Comment2 ""
 Comment3 ""
 Comment4 ""
