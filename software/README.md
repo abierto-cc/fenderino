@@ -1,4 +1,4 @@
-# Fenderino Shield - code and libraries
+# Fenderino Shield - código y libreras
 
 Esta carpeta contiene los ejemplos de código que necesitas para poder empezar a experimentar con tu Fenderino. La subcarpeta *examples* tiene todo lo que necesitas para poder empezar a experimentar
 
