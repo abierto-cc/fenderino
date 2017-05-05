@@ -6,7 +6,7 @@ Diseñado en Suecia con amor para toda la galaxia
 
 # créditos
 
-Marc Sibila de @instroniks y a todos los chicos de su orquesta
+Marc Sibila y Jordi Divins de @instroniks y a todos los chicos de su orquesta
 
 Xose Pérez por su contribución con el código MIDI para Arduino UNO y Arduino Leonardo
 
