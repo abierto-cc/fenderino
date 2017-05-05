@@ -11,7 +11,9 @@ Marc de @instroniks y a todos los chicos de su orquesta
 # autores
 
 D. Cuartielles at abierto.cc (prueba de concepto + código)
+
 J. Garcia at abierto.cc (diseño en KiCAD)
+
 L. Balboa at abierto.cc (gráficos)
 
 # abierto
